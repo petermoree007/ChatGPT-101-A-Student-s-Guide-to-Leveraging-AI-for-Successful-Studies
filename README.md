@@ -1,3 +1,3 @@
-## Workshop: Chat GTP and Students
+# Workshop: Chat GTP and Students
 
-# Seminar 12 May
+## Seminar 12 May
